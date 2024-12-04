@@ -79,7 +79,7 @@ This schedule is for nerds who want to challenge themselves and push boundaries.
   - [Nand2Tetris](https://www.nand2tetris.org/) (First 6 chapters and projects)
   - "Computer Systems: A Programmer's Perspective" (First 6 chapters)
 - **Courses**:
-  -[CS 61C]([httpsc](https://cs61c.org/fa24/)) Highly recommended, from UC Berkeley
+  - [CS 61C]([httpsc](https://cs61c.org/fa24/)) Highly recommended, from UC Berkeley
 - **Focus**: Understand the fundamental building blocks of computers.
 - **Project**: Simulate a simple von Neumann architecture.
  
